@@ -1,5 +1,5 @@
 /*global angular*/
-var app = angular.module('flapperNews', ['ui.router']);
+var app = angular.module('theTownCrier', ['ui.router']);
 
 app.config([
     '$stateProvider',
